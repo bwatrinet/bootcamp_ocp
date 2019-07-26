@@ -5,17 +5,18 @@ html,body {
 }
 
 h1 {
-    color: #FFFFFF;
+    color: #292931;
     font-weight: 900;
     font-size: 60px;
-    padding: 5px 5px;
+    padding-bottom: 25px;
+
 }
 
 h2 {
-    color: rgb(30,30,30);
+    color: #754D49;
     font-size: 40px;
     font-weight: 500;
-    padding: 10px 20px;
+
 }
 
 p {
@@ -44,27 +45,34 @@ ul {
     padding-inline-start: 40px;
 }
 
-.banner {
-    background-image: url(images_ocp/architecture-building-city-302769.jpg);
+.main-banner {
+    background: url(images_ocp/clickdesk10.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    padding: 250px 0;
+    padding: 225px 0;
     text-align: center;
 }
 
-.container {
-    width: 500px;
+.my_container {
+    width: 80%;
     margin: 0 auto;
     text-align: center;
 
 }
 
-.menu {
-    position: absolute;
-    top: 20px;
-    right: 20px;
+.card {
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+}
 
+.logo {
+    position: absolute;
+    top: -72px;
+    left: 42%;
 }
 
 
@@ -72,15 +80,37 @@ ul {
   display: inline;
   margin: 10px;
   padding: 10px 10px;
-
+  font-size: 30px;
+  color: #FFFFFF;
+  text-decoration: none
 }
+
+.menu a {
+  font-size: 20px;
+  color: #FFFFFF;
+  text-decoration: none
+}
+
+.menu a:hover
+{
+     color:#B7785A;
+     text-decoration:none;
+     cursor:pointer;
+}
+
 .img-circle { 
   border-radius: 50%;
 }
 
-.banner h1 {
+.main-banner h1 {
     text-align: center;
     font-size: 80px;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
 }
 
 
