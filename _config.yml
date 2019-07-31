@@ -1,5 +1,1 @@
-theme: jekyll-theme-minimal
-title: '🏕️ Bootcamp OCP 🏕️'
-description: 'A short description of your site's purpose'
-logo: 'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjcg5vN6N_jAhUO1eAKHQhSAX4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ladn.eu%2Fadn-business%2Fcorporate%2Fcoaching-formation%2Fle-wagon-offre-formation-entreprises%2F&psig=AOvVaw2sr13Tf0ekkhIU_ztcWStj&ust=1564685165013225'
-show_downloads: true
+theme: jekyll-theme-cayman
