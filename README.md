@@ -1,5 +1,7 @@
 # 🏕️ Bootcamp OCP 🏕️
 
+![alt text](https://uikit.lewagon.com/assets/le-wagon-0e68fc00a50ff351516ca01212d2dd940b4b2b89f3dd1ddaa1c83b307cd829eb.png)
+
 Thank you for attending our bootcamp ! We hope you enjoyed the program and found food for thought to broaden your horizon. You will find hereafter **useful resources** to help you drive innovation and change in your team and foster the **right mindset** in the company 💡.
 
 ## 📖 < bootcamp_slides > 📖
