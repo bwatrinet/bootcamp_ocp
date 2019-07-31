@@ -1,6 +1,10 @@
 # 🏕️ Bootcamp OCP 🏕️
 
-Thank you for attending our bootcamp ! We hope you enjoyed the program and found food fro thought to broaden your horizon.
+Thank you for attending our bootcamp ! We hope you enjoyed the program and found food for thought to broaden your horizon. You will find hereafter **useful resources** to help you drive innovation and change in your team and foster the **right mindset** 💡
+
+## 📖 <bootcamp_slides> 📖
+
+Here are the [Slides](https://drive.google.com/drive/folders/1lqrrD3rNt_RhK162fmWDR2nCo0M60KA7) of the 5-day bootcamp. Please note that these documents are **protected by copyright** and can therefore **not be shared outside the bootcamp attendees.**
 
 ## 🛠️ <startup_toolkit> 🛠️
 
